@@ -2,7 +2,7 @@
 
 A lightweight, responsive e-commerce storefront/landing page built using clean, semantic HTML5 and custom CSS3 styling.
 
-# Screenshots
+# Screenshot
 
 ![Shop Screenshot](/images/screenshot.png)
 ## 📁 Project Structure
