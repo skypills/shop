@@ -2,11 +2,9 @@
 
 A lightweight, responsive e-commerce storefront/landing page built using clean, semantic HTML5 and custom CSS3 styling.
 
-## 🚀 Features
-* **Responsive Layout:** Optimized for mobile, tablet, and desktop viewports.
-* **Product Showcase:** Clean grid layouts featuring item cards with images, pricing, and buy options.
-* **Modern UI:** Styled entirely with custom CSS (no heavy external frameworks required).
+# Screenshots
 
+![Shop Screenshot](/images/screenshot.png)
 ## 📁 Project Structure
 ```text
 ├── images/          # Product assets, icons, and background graphics
